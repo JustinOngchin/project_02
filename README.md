@@ -4,5 +4,5 @@
 ![Population Comparison](Population.png)
 
 
-## Graph 2: Pokemon Count (Data Source)[https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json]
+## Graph 2: Pokemon Count [(Data Source)](https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json)
 ![Pokemon Comparison](Population.png)
